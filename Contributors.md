@@ -255,6 +255,7 @@
 - [Rakesh Jarupula](https://github.com/Rakesh148)
 - [Adarsh Ghimire](https://github.com/ghimireadarsh)
 - [Ajiboye Fatimo](https://github.com/Happiness20)
+- [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Alex](https://github.com/bili-bu)
 - first test
 - [Julia](https://github.com/juliawithers)
